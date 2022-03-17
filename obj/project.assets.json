@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Douglas\\DigitalInnovationOne\\DesafiosNET\\TreinoSolo\\Teste 3 GFT new 2\\Teste 3 GFT new 2.csproj",
+      "projectUniqueName": "C:\\Users\\Douglas\\OneDrive\\Área de Trabalho\\GFT LEO\\GFT TESTE 3 LEO\\TESTE-3-GFT\\Teste 3 GFT new 2.csproj",
       "projectName": "Teste 3 GFT new 2",
-      "projectPath": "c:\\Users\\Douglas\\DigitalInnovationOne\\DesafiosNET\\TreinoSolo\\Teste 3 GFT new 2\\Teste 3 GFT new 2.csproj",
+      "projectPath": "C:\\Users\\Douglas\\OneDrive\\Área de Trabalho\\GFT LEO\\GFT TESTE 3 LEO\\TESTE-3-GFT\\Teste 3 GFT new 2.csproj",
       "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Douglas\\DigitalInnovationOne\\DesafiosNET\\TreinoSolo\\Teste 3 GFT new 2\\obj\\",
+      "outputPath": "C:\\Users\\Douglas\\OneDrive\\Área de Trabalho\\GFT LEO\\GFT TESTE 3 LEO\\TESTE-3-GFT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Douglas\\AppData\\Roaming\\NuGet\\NuGet.Config"
